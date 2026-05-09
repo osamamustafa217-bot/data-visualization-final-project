@@ -1,0 +1,17 @@
+id,community,community_label,degree,degree_centrality,betweenness_centrality
+Jon Snow,2,Targaryen Alliance,6,0.4,0.2667
+Daenerys Targaryen,2,Targaryen Alliance,2,0.1333,0.0
+Tyrion Lannister,1,Lannister / Royal Politics,5,0.3333,0.2571
+Sansa Stark,0,Stark / Northern Core,5,0.3333,0.1508
+Arya Stark,2,Targaryen Alliance,5,0.3333,0.219
+Bran Stark,0,Stark / Northern Core,4,0.2667,0.1683
+Samwell Tarly,2,Targaryen Alliance,1,0.0667,0.0
+Ned Stark,0,Stark / Northern Core,5,0.3333,0.0619
+Catelyn Stark,0,Stark / Northern Core,5,0.3333,0.0619
+Robb Stark,0,Stark / Northern Core,3,0.2,0.0
+Theon Greyjoy,0,Stark / Northern Core,2,0.1333,0.0413
+Joffrey Baratheon,1,Lannister / Royal Politics,4,0.2667,0.1778
+Sandor Clegane,2,Targaryen Alliance,1,0.0667,0.0
+Cersei Lannister,1,Lannister / Royal Politics,4,0.2667,0.0762
+Jaime Lannister,1,Lannister / Royal Politics,3,0.2,0.1333
+Brienne of Tarth,1,Lannister / Royal Politics,1,0.0667,0.0

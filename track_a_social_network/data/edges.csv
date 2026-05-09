@@ -1,0 +1,22 @@
+source,target,weight,relation
+Jon Snow,Daenerys Targaryen,5,Alliance
+Jon Snow,Arya Stark,4,Sibling
+Jon Snow,Sansa Stark,4,Sibling
+Jon Snow,Tyrion Lannister,3,Friendship
+Daenerys Targaryen,Tyrion Lannister,5,Advisor
+Daenerys Targaryen,Jorah Mormont,4,Loyal Supporter
+Daenerys Targaryen,Missandei,3,Friendship
+Tyrion Lannister,Jaime Lannister,5,Sibling
+Tyrion Lannister,Cersei Lannister,3,Sibling Conflict
+Jaime Lannister,Cersei Lannister,5,Sibling
+Arya Stark,Sansa Stark,4,Sibling
+Arya Stark,Bran Stark,3,Sibling
+Sansa Stark,Bran Stark,3,Sibling
+Cersei Lannister,The Mountain,5,Protector
+Cersei Lannister,Qyburn,4,Advisor
+Bran Stark,Samwell Tarly,3,Knowledge Link
+Samwell Tarly,Jon Snow,3,Friendship
+Jorah Mormont,Missandei,2,Alliance
+Theon Greyjoy,Sansa Stark,3,Friendship
+Theon Greyjoy,Yara Greyjoy,4,Sibling
+Yara Greyjoy,Daenerys Targaryen,2,Alliance
