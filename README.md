@@ -57,8 +57,13 @@ Track B is a live crypto monitoring dashboard built with Streamlit. It monitors 
 ###### Live App Link
 
 Replace the placeholder below with the deployed Streamlit app link:
-[https://data-visualization-final-project-ihooixvaftnea5yhhxyz9f.streamlit.app]
+Streamlit Live App:
+
 (https://data-visualization-final-project-ihooixvaftnea5yhhxyz9f.streamlit.app)
+
+GitHub Repository:
+
+(https://github.com/osamamustafa217-bot/data-visualization-final-project)
 
 ###### How to Run Track B Locally
 
