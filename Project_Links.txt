@@ -7,4 +7,4 @@ Streamlit Live App:
 https://data-visualization-final-project-ihooixvaftnea5yhhxyz9f.streamlit.app
 
 Google Drive Submission Folder:
-PASTE_GOOGLE_DRIVE_LINK_HERE
+https://drive.google.com/drive/folders/1JEqAmiD-W8leV6Eu8BdGfNklYF0hsNyh?usp=sharing
